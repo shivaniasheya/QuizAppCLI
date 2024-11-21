@@ -1,0 +1,17 @@
+DSA;What is the time complexity of binary search in a sorted array?;O(n);O(log n);O(n log n);O(1);O(log n)
+DSA;Which data structure is used in the implementation of recursion?;Queue;Array;Stack;Linked List;Stack
+DSA;What is a full binary tree?;A tree where each node has two children;A tree with only one node;A tree where all levels are completely filled;A tree where all nodes are leaves;A tree where all levels are completely filled
+DSA;In a max heap; the largest element is located at which position?;Any leaf node;Root;Rightmost node;Leftmost node;Root
+DSA;What is the worst-case time complexity of QuickSort?;O(n^2);O(n log n);O(n);O(log n);O(n^2)
+
+DBMS;What does SQL stand for?;Structured Query Language;Sequential Query Language;Standard Query Language;Simple Query Language;Structured Query Language
+DBMS;Which of the following is a primary key characteristic?;Can have null values;Uniquely identifies each record;Can have duplicate values;Is not required;Uniquely identifies each record
+DBMS;What is the purpose of a foreign key?;To delete records;To establish a relationship between tables;To add records;To remove duplicate entries;To establish a relationship between tables
+DBMS;Which command is used to remove all records from a table?;DELETE;DROP;TRUNCATE;REMOVE;TRUNCATE
+DBMS;Which of the following is an ACID property in databases?;Action;Atomicity;Accuracy;Active;Atomicity
+
+OS;Which scheduling algorithm is also known as shortest-job-first?;Round Robin;SJF;FCFS;Multilevel Queue;SJF
+OS;What is a critical section in OS?;A section where all tasks are critical;A section of code that accesses shared resources;A section of memory;A section in main memory only;A section of code that accesses shared resources
+OS;Which of these is a type of memory management?;Multithreading;Demand Paging;Scheduling;Process Control;Demand Paging
+OS;What is the purpose of an interrupt in an OS?;To execute commands;To handle hardware/software events;To increase processing speed;To manage memory;To handle hardware/software events
+OS;What is the function of the kernel in an OS?;User interface management;Hardware abstraction;File editing;Web browsing;Hardware abstraction
