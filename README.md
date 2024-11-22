@@ -159,7 +159,7 @@ Users can log out to switch accounts or exit the app.
 ```
 Exiting app.
 ```
-### Features
+## Features
 1. User Registration and Login
 2. Quiz Management
 3. Results Tracking
